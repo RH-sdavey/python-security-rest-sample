@@ -135,7 +135,7 @@ Your feedback is important to us. Connect with us on [Stack Overflow](https://st
 Documentation:
 
 * [Use the Microsoft Graph to integrate with Security API](https://developer.microsoft.com/en-us/graph/docs/api-reference/beta/resources/security-api-overview)
-* Microsoft Graph [List alerts](https://developer.microsoft.com/en-us/graph/docs/api-reference/beta/api/alert_list) documentation
+* Microsoft Graph [List alerts](https://learn.microsoft.com/en-us/graph/api/security-list-alerts_v2) documentation
 * [Microsoft Graph permissions reference](https://developer.microsoft.com/en-us/graph/docs/concepts/permissions_reference)
 
 Samples:
